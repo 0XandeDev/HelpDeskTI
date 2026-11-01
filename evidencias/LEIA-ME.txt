@@ -1,0 +1,8 @@
+ETAPA 5 — EVIDÊNCIAS REAIS
+
+Guarde nesta pasta:
+1. Print do repositório HelpDeskTI aberto no GitHub.
+2. Print da aba Commits mostrando o histórico.
+3. Opcional: print do GitHub Desktop ou terminal após push.
+
+Não use imagens ilustrativas como evidência. Os prints devem ser capturados da sua própria conta e do repositório real.
