@@ -53,4 +53,14 @@ Sistema desktop para registrar e acompanhar solicitações de suporte técnico e
 - **Etapa 4:** integração MySQL, persistência, consultas e testes.
 - **Etapa 5:** versionamento GitHub, commits e evidências.
 
+## Organização do sistema
+
+O projeto está organizado em pacotes:
+
+- model: classes e entidades do sistema.
+- dao: operações de acesso aos dados.
+- database: configuração da conexão com MySQL.
+- ui: componentes da interface gráfica.
+- pacote principal: inicialização da aplicação.
+
 > Importante: este repositório é uma base de trabalho evolutiva. As entregas de cada etapa devem ser revisadas, testadas e complementadas conforme as orientações do docente. As capturas de evidência da Etapa 5 precisam ser feitas na conta GitHub do aluno; não são geradas artificialmente.
