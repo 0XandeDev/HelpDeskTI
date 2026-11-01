@@ -63,4 +63,11 @@ O projeto está organizado em pacotes:
 - ui: componentes da interface gráfica.
 - pacote principal: inicialização da aplicação.
 
+## Regras de negócio
+
+- Todo chamado deve estar associado a um usuário cadastrado.
+- O equipamento relacionado ao chamado é opcional.
+- Um chamado só pode ser concluído após o registro da solução.
+- Os status disponíveis são Aberto, Em andamento e Concluído.
+
 > Importante: este repositório é uma base de trabalho evolutiva. As entregas de cada etapa devem ser revisadas, testadas e complementadas conforme as orientações do docente. As capturas de evidência da Etapa 5 precisam ser feitas na conta GitHub do aluno; não são geradas artificialmente.
